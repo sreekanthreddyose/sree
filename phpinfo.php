@@ -1,3 +1,3 @@
 <?php
-phpinfo("helloworld ");
+phpinfo("Hello EBRD Project ");
 ?>
